@@ -5,7 +5,7 @@ const Canvas = require('canvas');
 const fs = require('fs');
 
 // Replace the value below with the Telegram token you receive from @BotFather
-const token = '6077558302:AAEdbmdWX9ZvfmAV_ie1fUFe5E-IZEpSmoo';
+const token = '';
 
 // Create a new bot instance
 const bot = new TelegramBot(token, { polling: true });
